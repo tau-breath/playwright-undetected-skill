@@ -1,3 +1,11 @@
+<p align="center">
+  <strong>🚀 Continued in <a href="https://github.com/tau-breath/tauright">TAURIGHT</a></strong>
+</p>
+
+> **This project is now consolidated into [TAURIGHT](https://github.com/tau-breath/tauright).**  
+> New browser-runtime development, persistent multi-session profiles, same-profile concurrent lanes, fast local snapshots/actions, tab/session management, and automatic stable Patchright updates continue there.  
+> This repository remains public as a focused historical/reference implementation.
+
 # Playwright Undetected Skill
 
 A Claude Code skill for browser automation with bot detection bypass. Built on [patchright](https://github.com/AresS31/patchright) (undetected playwright fork).
